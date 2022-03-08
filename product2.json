@@ -1,0 +1,59 @@
+{
+    "products2" : [
+        {
+            "id" : 11,
+            "type" : "top",
+            "title" : "베이직 백 빅로고 오버핏 맨투맨 뉴욕양키스",
+            "option": {
+                         "color" : ["색상", "blue", "black", "pink", "white"],
+                          "size" : ["사이즈", "XS", "S", "M", "L"]
+                       } ,
+            "price" : 79000,
+            "img" : "https://static.mlb-korea.com/images/goods/thnail/m/20211221/3AMTB0121-50COL-56082431682114946.png/dims/resize/828x828"
+        },   
+        {
+            "id" : 12,
+            "type" : "top",
+            "title" : "하트 베이스볼 점퍼 뉴욕양키스",
+            "option": {
+                         "color" : ["색상", "black", "white"],
+                          "size" : ["사이즈", "XS", "S", "M", "L", "XL"]
+                       } ,
+            "price" : 219000,
+            "img" : "https://static.mlb-korea.com/images/goods/thnail/m/20220110/3AJPH0121-50IVS-57811938346098552.png/dims/resize/828x828"
+        },   
+        {
+            "id" : 13,
+            "type" : "shoes",
+            "title" : "플레이볼 뮬 다이아 뉴욕양키스",
+            "option": {
+                         "color" : ["색상", "black", "burlywood", "skyblue"],
+                          "size" : ["사이즈", "230", "240", "250", "260", "270"]
+                       } ,
+            "price" : 79000,
+            "img" : "https://static.mlb-korea.com/images/goods/thnail/m/20220110/3AMUMDA2N-50BGS-57812435942578052.png/dims/resize/828x828"
+        },   
+        {
+            "id" : 14,
+            "type" : "shoes",
+            "title" : "청키 조거 뉴욕양키스",
+            "option": {
+                         "color" : ["색상", "red", "skyblue", "burlywood", "green"],
+                          "size" : ["사이즈", "230", "240", "250", "260", "270"]
+                       } ,
+            "price" : 109000,
+            "img" : "https://static.mlb-korea.com/images/goods/thnail/m/20211201/3ASXX111N-50RDS-54353612883013651.png/dims/resize/828x828"
+        },   
+        {
+            "id" : 15,
+            "type" : "cap",
+            "title" : "모노그램 클래식 스트럭쳐 볼캡 뉴욕양키스",
+            "option": {
+                         "color" : ["색상", "red", "skyblue", "burlywood", "green", "black"],
+                          "size" : ["사이즈", "F"]
+                       } ,
+            "price" : 63000,
+            "img" : "https://static.mlb-korea.com/images/goods/thnail/m/20220121/3ACPFF02N-50BGD-58776631000207566.png/dims/resize/828x828"
+        }   
+    ]
+}
