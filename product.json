@@ -5,7 +5,7 @@
             "type" : "top",
             "title" : "모노그램 오버핏 맨투맨 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "red", "sky", "cream", "black"],
+                         "color" : ["색상", "red", "skyblue", "burlywood", "black"],
                           "size" : ["사이즈", "XS", "S", "M", "L"]
                        } ,
             "price" : 129000,
@@ -16,7 +16,7 @@
             "type" : "top",
             "title" : "클래식 데님 자켓 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "bule", "cream", "black"],
+                         "color" : ["색상", "blue", "burlywood", "black"],
                           "size" : ["사이즈", "XS", "S", "M", "L", "XL"]
                        } ,
             "price" : 269000,
@@ -27,7 +27,7 @@
             "type" : "top",
             "title" : "메가베어 오버핏 맨투맨 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "brown", "cream", "black"],
+                         "color" : ["색상", "brown", "white", "black"],
                           "size" : ["사이즈", "XS", "S", "M", "L", "XL"]
                        } ,
             "price" : 99000,
@@ -38,7 +38,7 @@
             "type" : "cap",
             "title" : "다이아 스트럭쳐 볼캡 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "white", "brown", "cream", "black", "pink"],
+                         "color" : ["색상", "white", "brown", "burlywood", "black", "pink"],
                           "size" : ["사이즈", "F"]
                        } ,
             "price" : 63000,
@@ -49,7 +49,7 @@
             "type" : "cap",
             "title" : "루키볼캡 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "white", "bule", "cream", "black", "pink"],
+                         "color" : ["색상", "white", "blue", "burlywood", "black", "pink"],
                           "size" : ["사이즈", "F"]
                        } ,
             "price" : 33000,
@@ -60,7 +60,7 @@
             "type" : "cap",
             "title" : "다이아 버킷햇 보스턴 레드삭스",
             "option": {
-                         "color" : ["색상", "white", "cream", "black"],
+                         "color" : ["색상", "white", "gray", "black"],
                           "size" : ["사이즈", "57H", "59H"]
                        } ,
             "price" : 73000,
@@ -71,7 +71,7 @@
             "type" : "shoes",
             "title" : "청키 클래식 힐 다이아 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "white","black"],
+                         "color" : ["색상", "white","black", "burlywood"],
                           "size" : ["사이즈", "230", "240", "250", "260", "270"]
                        } ,
             "price" : 149000,
@@ -93,7 +93,7 @@
             "type" : "shoes",
             "title" : "빅볼청키 픽셀 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "white", "yellow", "sky", "grey"],
+                         "color" : ["색상", "white", "yellow", "skyblue", "gray"],
                           "size" : ["사이즈", "230", "240", "250", "260", "270", "280"]
                        } ,
             "price" : 109000,
@@ -104,7 +104,7 @@
             "type" : "shoes",
             "title" : "청키 로우 뉴욕양키스",
             "option": {
-                         "color" : ["색상", "white", "yellow", "sky", "black"],
+                         "color" : ["색상", "white", "yellow", "skyblue", "black"],
                           "size" : ["사이즈", "230", "240", "250", "260", "270", "280"]
                        } ,
             "price" : 95000,
@@ -115,7 +115,7 @@
             "type" : "top",
             "title" : "다이아 전판 프린트 맨투맨 보스턴 레드삭스",
             "option": {
-                         "color" : ["색상", "white", "yellow", "sky", "pink"],
+                         "color" : ["색상", "white", "yellow", "skyblue", "pink"],
                           "size" : ["사이즈", "XS", "S", "M", "L", "XL"]
                        } ,
             "price" : 119000,
